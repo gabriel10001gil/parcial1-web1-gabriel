@@ -6,7 +6,7 @@
 - Curso: Programación Web
 
 ## Video Explicativo
-- [Ver video explicativo](https://linkalvideo.com) <!-- Agrega el enlace de tu video aquí -->
+- [Ver video explicativo](https://linkalvideo.com)
 
 ## Aplicación Desplegada
 - [Ver aplicación en Vercel](https://parcial1-web1-gabriel10001gil-407344.vercel.app)
